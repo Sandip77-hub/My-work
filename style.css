@@ -1,0 +1,9 @@
+body{
+	background-color: blue;
+	background:url(00.jpg);
+	background-repeat: no-repeat;
+}
+head{
+	background: red;
+	text-align: center;
+}
