@@ -1,0 +1,41 @@
+
+    .form-control{
+        width: 500px;
+        height: 30px;
+        background-repeat: no-repeat;
+        border-block-color: grey;
+        margin-left: 6%;
+        margin-top: 10px;
+        border-radius: 6px;
+        margin: 0px;
+    }
+    html{
+        text-align: left;
+        background-color: rgb(155, 245, 245);
+    }
+    button{
+        margin-top: 20px;
+        width: 100px;
+        height:30px;
+        border-radius: 6px;
+    }
+.b{
+    break-after: right;
+}
+.form-group{
+    text-align: left;
+    border-radius: 10px;
+}
+hr {
+    border: 1px solid #f1f1f1;
+    margin-bottom: 25px;
+  }
+.container{
+    padding: 16px;
+    margin-top: 30px;
+  }
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }

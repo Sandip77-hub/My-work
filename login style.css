@@ -1,0 +1,48 @@
+.form-group{
+    margin-top: 60px;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+.form-groups{
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-bottom: 25px;
+    margin-top: 20px;
+    
+}
+.form-control{
+    width: 250px;
+    height: 25px;
+    border-radius: 15px;
+    box-shadow: black;
+    background-repeat: no-repeat;
+    border-block-color: grey;
+    border-style: hidden;
+}
+body{
+    text-align: center;
+    background-color: bisque;
+}
+nav{
+    text-align: right;
+    height: 10px;
+}
+.e{
+    margin-top: 20px;
+    background-color:burlywood;
+}
+.b{
+    text-align: center;
+    margin-top: 100px;
+}
+button{
+    width: 90px;
+    height: 30px;
+    background-repeat:no-repeat;
+    background-color: darkblue;
+    text-decoration: rgb(255, 255, 255);
+
+}
+footer{
+    margin-top: 25px;
+}
